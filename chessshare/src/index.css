@@ -1,0 +1,11 @@
+#container {
+  width: 60%;
+  /* center horizontally and vertically */
+  margin: 0 auto;
+  margin-top: 10%;
+  text-align: center;
+
+  /* rounded border */
+  border-radius: 10px;
+  border: 10px solid #ccc;
+}
