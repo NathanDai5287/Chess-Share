@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nathandai5287.github.io/static/css/main.ba7445f1.css",
+    "main.js": "/nathandai5287.github.io/static/js/main.b1591e27.js",
+    "static/js/787.b223544b.chunk.js": "/nathandai5287.github.io/static/js/787.b223544b.chunk.js",
+    "index.html": "/nathandai5287.github.io/index.html",
+    "main.ba7445f1.css.map": "/nathandai5287.github.io/static/css/main.ba7445f1.css.map",
+    "main.b1591e27.js.map": "/nathandai5287.github.io/static/js/main.b1591e27.js.map",
+    "787.b223544b.chunk.js.map": "/nathandai5287.github.io/static/js/787.b223544b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba7445f1.css",
+    "static/js/main.b1591e27.js"
+  ]
+}
